@@ -2,10 +2,10 @@
 
 Can you please make a list of these resources formatted as follows:
 
-Name of organization
-Address of organization
-phone number of organization
-Web site address of Organization
+Name of organization  
+Address of organization  
+phone number of organization  
+Web site address of Organization  
 Star rating of organization according to google
 
 Please order them in distance from charlotte, NC.
